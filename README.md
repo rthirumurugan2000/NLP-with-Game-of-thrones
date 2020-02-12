@@ -8,7 +8,7 @@
 
 ## Part 1: Exploratory data Analysis:
 Game of Thrones is one of the world's most popular TV shows, so why not let you explore information about it. Is there are link between ratings and viewer figures? Do certain writers and directors make better episodes? AND MANY MORE:)
-Visualiszations are available in the EDA notebook.
+Visualizations are available in the EDA notebook.
 
 ### Screenshots of some visualizations:
 ![](images/eda.png)
