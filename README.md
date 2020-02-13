@@ -29,7 +29,7 @@ This dataset was downloaded from kaggle.This dataset captures the release of all
 ### Wordcloud for Negative tweets:
 ![](images/negative.png)
 
-### Wordcloud for Sujective tweets:
+### Wordcloud for Subjective tweets:
 ![](images/subjective.png)
 
 # I thank HODOR for HOLDING THE DOOR :)
