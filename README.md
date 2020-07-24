@@ -1,6 +1,7 @@
 # NLP with Game of Thrones
 #### Thirumurugan Ramar
-![](https://img.shields.io/badge/Status%20-Completed-red)             ![](https://img.shields.io/badge/License%20-MIT-green)
+
+
 
 ![](images/got12.jpg)
 
